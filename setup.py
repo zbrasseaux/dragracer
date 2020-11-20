@@ -10,7 +10,7 @@ setup(
 	1-12. The package includes data at the episode-level,\
 	contestant-level, and episode-contestant-level.", 
 	platforms='Linux',
-	packages=find_packages(where='./src'),
+	packages=find_packages(where='./src ./data'),
 	package_dir={
 		'': 'src',
 		'data': 'data'
