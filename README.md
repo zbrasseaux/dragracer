@@ -24,12 +24,11 @@ the data he provides. The following is a quote from the original README:
 
 ## Installation
 
-The goal is to get this on CRAN, eventually. Until then, you can install
-the development version of `dragracer` from Github via the `devtools`
-package. I suppose using the `remotes` package would work as well.
+The goal is to get this on pypy, eventually. Until then, you can install
+the development version of `dragracer` from Github via `pip`.
 
-``` r
-devtools::install_github("svmiller/dragracer")
+``` bash
+pip install git+https://github.com/zbrasseaux/dragracer
 ```
 
 ## Usage
@@ -45,8 +44,12 @@ season. `rpdr_contep` is episode-contestant-level data about how each
 contestant fared in a particular episode in which they were. You can
 read more through this command.
 
-``` r
-data(package = "dragracer")
+``` python
+import dragracer
+
+dragracer.describe("rpdr_ep")
+
+episodes = dragracer.data("rpdr_ep")
 ```
 
 The ensuing output will look like this.
