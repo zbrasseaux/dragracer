@@ -1,2 +1,2 @@
 # setuptools test info
-./src/dragracer.*
+./src/dragracer.egg-info/*
