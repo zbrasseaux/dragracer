@@ -22,7 +22,8 @@ setup(
 	'Development Status :: 1 - Alpha',
 	'Natural Language :: English',
 	'Programming Language :: Python',
-	'Programming Language :: Python 3.5'
+	'Programming Language :: Python 3.7',
+	'Programming Language :: Python 3.8'
 	],
 	license='GPL-2'
 )
