@@ -10,17 +10,17 @@ season. The original package was created by [Steven Miller](http://github.com/sv
 and the original repository can be found [here](http://github.com/svmiller/dragracer). 
 Miller has [a blog post that describes these data](http://svmiller.com/blog/2019/02/dragracer-rupauls-drag-race-analysis/)
 in some detail while also showcasing some of the things you can do with
-the data he provides. The following is a quote from the original README - 
-"I offer this R package for two reasons. First, the
-fandom for this show is large and there is a discernible subset of the
-fandom that is interested in the R programming language. I offer this
-package as a collection of accessible data with which they can
-experiment. I also offer this as a love letter of a kind to RuPaul’s
-Drag Race and all the contestants that have appeared on it. We have no
-choice but to “stan”, especially Jinkx Monsoon. Jinkx is the GOAT. The
-conspicuously short Season 8 masks Bob’s relative dominance. Sasha
-Velour is Champaign-Urbana’s greatest export since REO Speedwagon.
-Kameron Michaels should’ve won Season 10.""
+the data he provides. The following is a quote from the original README: 
+> I offer this R package for two reasons. First, the
+> fandom for this show is large and there is a discernible subset of the
+> fandom that is interested in the R programming language. I offer this
+> package as a collection of accessible data with which they can
+> experiment. I also offer this as a love letter of a kind to RuPaul’s
+> Drag Race and all the contestants that have appeared on it. We have no
+> choice but to “stan”, especially Jinkx Monsoon. Jinkx is the GOAT. The
+> conspicuously short Season 8 masks Bob’s relative dominance. Sasha
+> Velour is Champaign-Urbana’s greatest export since REO Speedwagon.
+> Kameron Michaels should’ve won Season 10.
 
 ## Installation
 
