@@ -1,5 +1,5 @@
 from data import data
 
 
-def describe():
-	pass
+def describe(dataset):
+	print(dataset)
