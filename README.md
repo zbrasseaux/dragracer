@@ -6,8 +6,8 @@
 
 `dragracer` is a Python port of an R package of data sets for all available seasons of
 RuPaul’s Drag Race, excluding All Stars. It’s updated at the end of each
-season. The original package was created by [Steven Miller](github.com/svmiller) 
-and the original repository can be found [here](github.com/svmiller/dragracer). 
+season. The original package was created by [Steven Miller](http://github.com/svmiller) 
+and the original repository can be found [here](http://github.com/svmiller/dragracer). 
 Miller has [a blog post that describes these data](http://svmiller.com/blog/2019/02/dragracer-rupauls-drag-race-analysis/)
 in some detail while also showcasing some of the things you can do with
 the data he provides. The following is a quote from the original README - 
