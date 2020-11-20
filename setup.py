@@ -12,8 +12,7 @@ setup(
 	platforms='Linux',
 	packages=find_packages(where='./src'),
 	package_dir={
-		'': 'src',
-		'data': 'src/data'
+		'': 'src'
 	},
 	include_package_data = True,
 	install_requires=(
