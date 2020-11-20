@@ -1,5 +1,6 @@
 # setuptools test info
 src/dragracer.egg-info/
+.eggs/
 
 # local cache from testing
 src/dragracer/__pycache__
